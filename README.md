@@ -7,8 +7,9 @@ Professor da Disciplina: Giuliano Bertoti
  
 
 Equipe:
- - João Bertoti - 12345
- - Marilia Araujo - 54321
+ - Eduardo Querido
+ - José Francisco
+ - Willian Couto
 
  
 Link CodePen: a definir
