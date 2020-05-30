@@ -14,10 +14,21 @@ Equipe:
 
 Link do Projeto: [Projeto](https://github.com/eduardoquerido/IHC_fatec/tree/master/projeto)
 
-Link CodePen: a definir
+Link CodePen: https://codepen.io/eduardoquerido/pen/RwWXQJv
 
 # 1ª Quinzena de maio
 
+### Inicio do Projeto
+
+	> Implementado o começo do projeto, disponibilizado com 3 objetos do próprio A-Frame para testes, pois não possuimos as formas em gltf ainda.
+
+
+# 2ª Quinzena de maio
+
 ### Adicionado as primeira funcionalidades do projeto
+
+	> Adicionado uma biblioteca externa para A-frame chamada aframe-click-drag-component
+
+		>> Link: https://github.com/jesstelford/aframe-click-drag-component
 
 	> O usuário é capaz de manusear os objetos e estes serão escurececidos (hover mode) para determinar qual está sendo manipulado;
