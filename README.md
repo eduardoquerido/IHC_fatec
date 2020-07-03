@@ -10,6 +10,7 @@ Equipe:
 
  - Eduardo Querido
  - José Francisco
+ - Willian Couto
 
 Link do Projeto: [Projeto](https://github.com/eduardoquerido/IHC_fatec/tree/master/projeto)
 
